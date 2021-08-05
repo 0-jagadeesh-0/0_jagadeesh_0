@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/0_jagadeesh_0/static/css/main.75d12729.chunk.css",
+    "main.js": "/0_jagadeesh_0/static/js/main.307c7001.chunk.js",
+    "main.js.map": "/0_jagadeesh_0/static/js/main.307c7001.chunk.js.map",
+    "runtime-main.js": "/0_jagadeesh_0/static/js/runtime-main.872673cf.js",
+    "runtime-main.js.map": "/0_jagadeesh_0/static/js/runtime-main.872673cf.js.map",
+    "static/js/2.7f972066.chunk.js": "/0_jagadeesh_0/static/js/2.7f972066.chunk.js",
+    "static/js/2.7f972066.chunk.js.map": "/0_jagadeesh_0/static/js/2.7f972066.chunk.js.map",
+    "index.html": "/0_jagadeesh_0/index.html",
+    "static/css/main.75d12729.chunk.css.map": "/0_jagadeesh_0/static/css/main.75d12729.chunk.css.map",
+    "static/js/2.7f972066.chunk.js.LICENSE.txt": "/0_jagadeesh_0/static/js/2.7f972066.chunk.js.LICENSE.txt",
+    "static/media/c.da6ce098.png": "/0_jagadeesh_0/static/media/c.da6ce098.png",
+    "static/media/java.f5dd86c3.png": "/0_jagadeesh_0/static/media/java.f5dd86c3.png",
+    "static/media/mongodb.898114ff.png": "/0_jagadeesh_0/static/media/mongodb.898114ff.png",
+    "static/media/mypic5.c6381672.jpg": "/0_jagadeesh_0/static/media/mypic5.c6381672.jpg",
+    "static/media/node.abfaef34.png": "/0_jagadeesh_0/static/media/node.abfaef34.png",
+    "static/media/python.82ab0bdb.png": "/0_jagadeesh_0/static/media/python.82ab0bdb.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.872673cf.js",
+    "static/js/2.7f972066.chunk.js",
+    "static/css/main.75d12729.chunk.css",
+    "static/js/main.307c7001.chunk.js"
+  ]
+}
